@@ -1,4 +1,4 @@
-#  Airbnb Clone — Frontend
+#  Airbnb Clone - Frontend
 
 A pixel-perfect frontend clone of Airbnb's booking platform, focusing on responsive, accessible, and component-based UI development using modern frontend technologies.
 
@@ -62,6 +62,6 @@ MIT License
 ---
 
 ## Author
-Benedict Tachie — Software Developer & Data Scientist
+Benedict Tachie - Software Developer & Data Scientist
 Driving Digital Transformation through Innovation and Code.
 
