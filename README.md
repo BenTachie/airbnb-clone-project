@@ -100,6 +100,46 @@ In platforms like Airbnb, **user experience directly impacts conversion rates**.
 
 ---
 
+### Design Specifications
+
+#### Color Styles
+
+- **Primary Color**: `#FF5A5F` – Vibrant coral red for CTAs and highlights  
+- **Secondary Color**: `#008489` – Teal for accents and interactive elements  
+- **Background**: `#FFFFFF` – Clean white for content areas  
+- **Primary Text**: `#222222` – Dark grey for high-contrast readability  
+- **Secondary Text**: `#717171` – Muted grey for supporting content
+
+---
+
+#### Typography
+
+| Use Case         | Font Family | Font Weight | Font Size |
+|------------------|-------------|-------------|-----------|
+| Primary Body     | Circular    | Medium (500)| 16px      |
+| Headings (H1–H3) | Circular    | Bold (700)  | 24px–32px |
+| Secondary Text   | Circular    | Book (400)  | 14px      |
+
+> *Note: If Circular is unavailable, I might consider using "Inter", "Poppins", or "Open Sans" as modern, clean alternatives.*
+
+---
+
+### Why Design Properties Matter
+
+Identifying and documenting key design properties from a Figma mockup ensures visual consistency and development accuracy. It allows developers to:
+
+- Match the visual identity pixel-for-pixel
+- Maintain uniformity across components and screens
+- Speed up development with reusable styles
+- Improve collaboration between designers and developers
+- Deliver a polished and professional user experience
+
+A well-defined design system streamlines frontend implementation and prevents on the fly styling, reducing bugs and redesign time.
+
+> In short: good design specs = faster, better, and more beautiful builds.
+
+---
+
 ## Contributions
 This project is part of a personal learning journey. Suggestions, feedback, or contributions are always welcome!
 
