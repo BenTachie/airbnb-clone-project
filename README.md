@@ -50,6 +50,55 @@ Backend API integrations and database logic will be added in later phases.
 - Optimize for **fast loading and performance**
 
 ---
+## UI/UX Design Planning
+
+### Design Goals
+
+The aim is to create an intuitive and visually appealing booking interface that reflects the ease-of-use and polish of a modern travel platform. Design decisions will be driven by:
+
+- **Mobile-first responsiveness** - seamless experience across all devices
+- **Clean and consistent visual hierarchy**
+- **Effortless booking flow** with minimal friction
+- **Fast load times** and image optimization
+- **Accessibility compliance** following WCAG 2.1 guidelines
+
+---
+
+### Key Features
+
+These features represent core functionality users expect from a booking platform:
+
+- Property search and filtering  
+- Detailed property information view  
+- Availability and booking form  
+- User authentication (login/signup)  
+- Simplified checkout and booking confirmation
+
+---
+
+### Primary Page Descriptions
+
+| Page Name               | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Property Listing View**   | Grid view of available properties, with filters for location, price, and dates |
+| **Listing Detailed View**   | Full property details, image gallery, description, host info, and booking form |
+| **Simple Checkout View**    | Streamlined interface for entering user details and confirming the booking     |
+
+---
+
+### Importance of a User-Friendly Design
+
+In platforms like Airbnb, **user experience directly impacts conversion rates**. A clear, intuitive, and beautiful interface builds user trust and encourages engagement. Here’s why user-friendly design matters:
+
+- **Reduces friction** in the booking journey  
+- **Improves accessibility** for all users  
+- **Boosts credibility and trust**, especially for new users  
+- **Minimizes cognitive load**, allowing users to focus on choices (What they need)  
+- **Enhances mobile usability**, which is crucial for travel platforms
+
+> A good UI is not just aesthetic, it’s a **strategic asset** for driving adoption and satisfaction.
+
+---
 
 ## Contributions
 This project is part of a personal learning journey. Suggestions, feedback, or contributions are always welcome!
