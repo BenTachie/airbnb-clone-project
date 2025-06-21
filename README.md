@@ -139,6 +139,21 @@ A well-defined design system streamlines frontend implementation and prevents on
 > In short: good design specs = faster, better, and more beautiful builds.
 
 ---
+## Project Roles and Responsibilities
+
+This project simulates a collaborative, cross-functional software development team. Each role contributes uniquely to the success of the Airbnb Clone by ensuring high-quality, timely, and scalable delivery of features and functionality.
+
+| Role                | Responsibilities |
+|---------------------|------------------|
+| **Project Manager** | - Oversees overall project execution and timeline<br>- Coordinates communication among team members<br>- Tracks progress and resolves blockers<br>- Ensures deliverables meet scope and deadlines |
+| **Frontend Developers** | - Build responsive UI components using React<br>- Integrate frontend with backend APIs<br>- Follow component-based architecture<br>- Ensure accessibility and performance |
+| **Backend Developers** | - Design and build RESTful APIs<br>- Manage database schema and interactions<br>- Implement authentication, authorization, and business logic<br>- Ensure backend scalability and security |
+| **Designers (UI/UX)** | - Create wireframes, mockups, and visual assets in Figma<br>- Define typography, color styles, and spacing tokens<br>- Ensure user experience is intuitive, consistent, and device-friendly<br>- Collaborate with developers to translate designs into code |
+| **QA/Testers** | - Write unit and integration test cases<br>- Perform manual and automated testing<br>- Identify and report bugs or inconsistencies<br>- Ensure quality, usability, and reliability across devices |
+| **DevOps Engineers** | - Set up deployment environments <br>- Configure CI/CD pipelines for automated deployment<br>- Monitor app uptime and performance<br>- Manage build processes and environment variables |
+| **Product Owner** | - Define product vision, goals, and feature priorities<br>- Maintain and refine the product backlog<br>- Validate features based on user needs<br>- Represent end-user/stakeholder perspective |
+| **Scrum Master** | - Facilitate agile ceremonies (standups, sprint reviews, retros)<br>- Remove blockers and support team productivity<br>- Track sprint velocity and team morale<br>- Promote agile best practices and collaboration |
+
 
 ## Contributions
 This project is part of a personal learning journey. Suggestions, feedback, or contributions are always welcome!
