@@ -154,6 +154,68 @@ This project simulates a collaborative, cross-functional software development te
 | **Product Owner** | - Define product vision, goals, and feature priorities<br>- Maintain and refine the product backlog<br>- Validate features based on user needs<br>- Represent end-user/stakeholder perspective |
 | **Scrum Master** | - Facilitate agile ceremonies (standups, sprint reviews, retros)<br>- Remove blockers and support team productivity<br>- Track sprint velocity and team morale<br>- Promote agile best practices and collaboration |
 
+---
+## UI Component Patterns
+
+The AirBnB Clone frontend will be structured around a set of reusable, modular UI components. These components will be designed for consistency, accessibility, and flexibility, enabling fast iteration and scalable styling.
+
+Below is a breakdown of core components planned for the initial build phase:
+
+---
+
+### Navbar
+
+**Purpose:**  
+Provides global navigation and user access points.
+
+**Key Elements:**
+- Main logo (clickable to Home)
+- Search bar with location/date filters
+- Navigation links (e.g. Become a host, Help)
+- User avatar and dropdown (Login/Profile/Logout)
+- Responsive hamburger menu for mobile
+
+---
+
+### Property Card
+
+**Purpose:**  
+Displays a preview of a single property in the listing grid.
+
+**Key Elements:**
+- Featured image
+- Property title and location
+- Rating and review count
+- Price per night
+- Heart/favorite icon (wishlist feature)
+- Fully responsive and clickable
+
+---
+
+### Footer
+
+**Purpose:**  
+Contains company info, quick links, and legal information.
+
+**Key Elements:**
+- Sitemap and navigation links
+- Contact/about/social media links
+- Legal disclaimers and copyright
+- Responsive layout with stacked view on mobile
+
+---
+
+### Component Design Philosophy
+
+All components will be:
+- **Reusable:** Built as functional units used across multiple pages
+- **Atomic:** Following a component hierarchy (atoms, molecules, organisms)
+- **Responsive:** Mobile-first with adaptive layouts
+- **Accessible:** Keyboard navigable, screen-reader friendly
+- **Style-consistent:** Using global tokens for color, spacing, and typography
+
+> Components will live in a /components directory with scoped styles, and will follow naming conventions for clarity and maintainability.
+---
 
 ## Contributions
 This project is part of a personal learning journey. Suggestions, feedback, or contributions are always welcome!
